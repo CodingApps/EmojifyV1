@@ -8,7 +8,7 @@
 
 This project implements the Google Face API for face recognition after a picture is taken. Once the face recognition detects the facial expression, another function pulls a cartoon emoji with the corresponding expression to place on the face.
 <p align="center">
-  <img alt="emojify" title="emojify" src="https://androidflow.github.io/screens/emojifypic1.gif" width=300>
+  <img src="https://androidflow.github.io/screens/emojifypic1.gif" width=300>
 </p>
 <br>
 
