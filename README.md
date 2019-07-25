@@ -6,7 +6,7 @@
 
 ## Intro
 
-This project implements the Google Face API for face recognition after a picture is taken. Once the face recognition detects the facial expression, another function pulls a cartoon emoji with the corresponding expression to place on the face.
+This project implements the Google Face API for face recognition after a picture is taken. Once the face recognition detects the facial expression, another function pulls a cartoon emoji with the corresponding expression to place on the face. Index of emoji images added from different image set. 
 <p align="center">
   <img src="screens/emojifypic1.gif" width=300>
 </p>
